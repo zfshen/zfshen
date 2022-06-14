@@ -8,7 +8,7 @@
   
 **About**
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
+-  **Learning :** kubernetes :zap: | Open-Source :fire:    
 -  **Languages :** Python, Go
 -  **Fact :** First solve the problem, then write the code :heart:
 
